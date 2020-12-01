@@ -71,14 +71,14 @@ header a {
 /* Add everything below here */
 
 #hero {
-    background-image: linear-gradient(rgba(245,245,245,0.65),rgba(240,240,240,0.55)), url('file:///C:/Users/HP/Desktop/WEBSITE%20IMD311/IMAGES/IMAGE%203.jpg');
+    background-image: linear-gradient(rgba(245,245,245,0.65),rgba(240,240,240,0.55)), url('file:///C:/Users/HP/Desktop/WEBSITE%20IMD311/IMAGES/IMAGE%203.JPG');
 }
 
 #about {
-    background-image: linear-gradient(rgba(245,245,245,0.55),rgba(240,240,240,0.45)), url('file:///C:/Users/HP/Desktop/WEBSITE%20IMD311/IMAGES/IMAGE%201.jpg');
+    background-image: linear-gradient(rgba(245,245,245,0.55),rgba(240,240,240,0.45)), url('file:///C:/Users/HP/Desktop/WEBSITE%20IMD311/IMAGES/IMAGE%201.JPG');
 }
 
 #contact {
-    background-image: linear-gradient(rgba(245,245,245,0.75),rgba(240,240,240,0.65)), url('file:///C:/Users/HP/Desktop/WEBSITE%20IMD311/IMAGES/IMAGE%204.jpg');
+    background-image: linear-gradient(rgba(245,245,245,0.75),rgba(240,240,240,0.65)), url('file:///C:/Users/HP/Desktop/WEBSITE%20IMD311/IMAGES/IMAGE%204.JPG');
 }
 
